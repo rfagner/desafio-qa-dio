@@ -11,6 +11,9 @@ Como usuário, quero poder cadastrar um novo produto no site, para que eu possa 
 
 ## Mind Map
 
+![Mind Map](images/mind-map.png)
+
+
 
 **Requisitos:**
 
